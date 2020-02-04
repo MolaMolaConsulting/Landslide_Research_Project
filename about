@@ -1,0 +1,8 @@
+---
+layout: default
+title: About Us
+---
+<div class="about">
+	<h1>About Us</h1>
+	<p>We are a consulting group for <em>William & Mary's Advanced GIS.</em> <a href="/about">Read more about us...</a></p>
+</div><!-- /.about -->
