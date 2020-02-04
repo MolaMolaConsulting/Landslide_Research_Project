@@ -1,2 +1,4 @@
 name: Mola Mola Consulting
 markdown: kramdown
+
+theme: jekyll-theme-cayman
