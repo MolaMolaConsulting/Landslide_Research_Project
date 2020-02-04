@@ -7,5 +7,5 @@ title: About Us
 	<p>Currently under construction</a></p>
 
 	{% for post in site.about %}
-	    <li><span>{{ about.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ about.title }}">{{ about.title }}</a></li>
+	    <li><span>{{ about.date | date_to_string }}</span> » <a href="{{ about.url }}" title="{{ about.title }}">{{ about.title }}</a></li>
 </div><!-- /.about -->
