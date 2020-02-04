@@ -5,4 +5,7 @@ title: About Us
 <div class="about">
 	<h1>About Us</h1>
 	<p>Currently under construction</a></p>
+
+	{% for post in site.about %}
+	    <li><span>{{ about.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ about.title }}">{{ about.title }}</a></li>
 </div><!-- /.about -->
