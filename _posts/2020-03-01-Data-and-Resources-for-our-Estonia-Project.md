@@ -37,7 +37,7 @@ Mola Mola will identify potential landslide areas proximal to Viljandi Castle by
 •	Examine DEMs, topographic and slope maps to calculate the thickness and weight of soil regolith, and hillslope in the study area. 
 
 
-Our methodology is adaptive and evolves with arising needs of each project; the various steps in our process are continuously reviewed by expert GIS analysts and expanded or streamlined as required to expedite accurate results.  Given the starting methodology described above, our plan is to identify and utilize GIS to visualize areas meeting the prerequisite criteria for susceptibility, and, determine their location and extent in reference to Viljandi Castle. 
+Our methodology is adaptive and evolves with arising needs on each project; the various steps in our process are continuously reviewed by expert GIS analysts and expanded or streamlined as required to expedite accurate results.  Given the starting methodology described above, our plan is to identify and utilize GIS to visualize areas meeting the prerequisite criteria for susceptibility, and, determine their location and extent in reference to Viljandi Castle. 
 
 Our preliminary research located the following data sources; copy these links into your search engine to visit the sites:
 
