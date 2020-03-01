@@ -6,12 +6,10 @@ For our landslide susceptibility evaluations, we will follow the Critical Rainfa
 In order to obtain an applicable factor of safety (Fs), the Mola Mola team has embarked in a research operation to locate reliable data sources for the each of the model’s variables.
 
 
-
-
-
-
           tan φ               C - ψt * γw * (tan φ)
+          
 Fs =  -------------  +   ---------------------------------
+          
           tan θ               γr * H * (sin θ) * (cos θ)
 
 where:
