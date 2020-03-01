@@ -6,18 +6,29 @@ For our landslide susceptibility evaluations, we will follow the Critical Rainfa
 In order to obtain an applicable factor of safety (Fs), the Mola Mola team has embarked in a research operation to locate reliable data sources for the each of the model’s variables.
 
 
-     	  tan φ       	 	   C - ψt * γw * (tan φ)
-Fs = 	-------- 	+ 	-----------------------------------
-      	  tan θ   		   γr * H * (sin θ) * (cos θ)
+
+
+
+
+          tan φ               C - ψt * γw * (tan φ)
+Fs =  -------------  +   ---------------------------------
+          tan θ               γr * H * (sin θ) * (cos θ)
 
 where:
 •	Fs is the factor of safety
+
 •	φ is internal angle of friction (deg)
+
 •	θ is hillslope (deg)
+
 •	C is soil cohesion (Pa = kg/m/s2)
+
 •	ψt is pressure head (m) = h * cosθ (Eq. 6, Gabet et al., 2004)
+
 •	γw is unit weight of water (N/m3); N=kg*m/s2
+
 •	γr is unit weight of soil regolith (N/m3)
+
 •	H is soil regolith thickness (m)
 
 
