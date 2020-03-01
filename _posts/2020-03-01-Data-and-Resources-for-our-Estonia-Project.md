@@ -2,7 +2,7 @@ Capitalize on Opportunities - Mola Mola Consultants procures additional data sou
 
 Our GIS products are the result of exhaustive research into the variables necessary to effectively evaluate susceptibility.  
 
-For our landslide susceptibility evaluations, we will follow the Critical Rainfall Threshold Model after Iverson, 2000 (below).  In order to obtain an applicable factor of safety (Fs), the Mola Mola team has embarked in a research operation to locate reliable data sources for the each of the model’s variables.
+For our landslide susceptibility evaluations, we will follow the Critical Rainfall Threshold Model after Iverson, 2000 (below).  In order to obtain an applicable factor of safety (Fs), the Mola Mola team has embarked in a research operation to locate reliable data sources for each of the model’s variables.
 
 
 Fs = (tan φ / tan θ) + [C- ψt * γw * tan (φ) / γr * H * (sin θ) * (cos θ)]
@@ -30,14 +30,14 @@ Mola Mola will identify potential landslide areas proximal to Viljandi Castle by
 
 •	Utilize soil maps to identify soil types existing within and surrounding the area of our research site.
 
-•	Locate information for the specific characteristics of the particular soils: internal angle of friction and cohesion coefficients, 
+•	Locate information for specific characteristics of the particular soils: internal angle of friction and cohesion coefficients, 
         
-•	Review available groundwater maps and soil surveys to ascertain the elevation of watertable and determine pressure head, 
+•	Review available groundwater maps and soil surveys to ascertain the elevation of watertables and determine pressure head, 
 
-•	Examine DEMs, topographic and slope maps to calculate the thickness and weight of soil regolith, and hillslope in the study area. 
+•	Examine DEMs, topographic and slope maps to calculate the hillslope and thickness and weight of soil regolith in the study area. 
 
 
-Our methodology is adaptive and evolves with arising needs on each project; the various steps in our process are continuously reviewed by expert GIS analysts and expanded or streamlined as required to expedite accurate results.  Given the starting methodology described above, our plan is to identify and utilize GIS to visualize areas meeting the prerequisite criteria for susceptibility, and, determine their location and extent in reference to Viljandi Castle. 
+Our methodology is adaptive and evolves with arising needs on each project; the various steps in our process are continuously reviewed by expert GIS analysts and expanded or streamlined as required, to expedite accurate results.  Given the starting methodology described above, our plan is to identify and, via GIS techniques, visualize areas meeting the prerequisite criteria for susceptibility, determine their location and extent, in reference to Viljandi Castle. 
 
 Our preliminary research located the following data sources; copy these links into your search engine to visit the sites:
 
