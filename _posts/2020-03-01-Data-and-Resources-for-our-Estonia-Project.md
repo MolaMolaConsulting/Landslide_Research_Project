@@ -2,7 +2,7 @@ Capitalize on Opportunities - Mola Mola Consultants procures additional data sou
 
 Our GIS products are the result of exhaustive research into the variables necessary to effectively evaluate susceptibility.  
 
-For our landslide susceptibility evaluations, we will follow the Critical Rainfall Threshold Model after Iverson, 2000 (below).  In order to obtain an applicable factor of safety (Fs), the Mola Mola team has embarked in a research operation to locate reliable data sources for each of the model’s variables.
+For our landslide susceptibility evaluations, we will employ the Critical Rainfall Threshold Model after Iverson, 2000 (below).  In order to obtain an applicable factor of safety (Fs), the Mola Mola team has embarked in a research operation to locate reliable data sources for each of the model’s variables.
 
 
 Fs = (tan φ / tan θ) + [C- ψt * γw * tan (φ) / γr * H * (sin θ) * (cos θ)]
@@ -37,7 +37,7 @@ Mola Mola will identify potential landslide areas proximal to Viljandi Castle by
 •	Examine DEMs, topographic and slope maps to calculate the hillslope and thickness and weight of soil regolith in the study area. 
 
 
-Our methodology is adaptive and evolves with arising needs on each project; the various steps in our process are continuously reviewed by expert GIS analysts and expanded or streamlined as required, to expedite accurate results.  Given the starting methodology described above, our plan is to identify and, via GIS techniques, visualize areas meeting the prerequisite criteria for susceptibility, and determine their location and extent in reference to Viljandi Castle. 
+Our methodology is adaptive and evolves with arising needs on each project; the various steps in our process are continuously reviewed by expert GIS analysts and expanded or streamlined as required to expedite accurate results.  Given the starting methodology described above, our plan is to identify and, via GIS techniques, visualize areas meeting the prerequisite criteria for landslide susceptibility, and determine their location and extent in reference to Viljandi Castle. 
 
 Our preliminary research located the following data sources; copy these links into your search engine to visit the sites:
 
